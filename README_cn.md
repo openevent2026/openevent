@@ -149,28 +149,28 @@ build/openevent_server /path/to/openevent-server.yaml
 ## SDK
 
 SDK 的构建、安装和测试说明见
-[openevent-sdk](https://github.com/openevent2026/openevent-sdk) 仓库。
+[openevent-sdk](https://github.com/openevent-official/openevent-sdk) 仓库。
 
 ## 文档
 
 - [配置说明](docs/CONFIG_cn.md)
 - [API 说明](docs/API_cn.md)
-- [SDK 仓库](https://github.com/openevent2026/openevent-sdk)
-- [协议定义](https://github.com/openevent2026/openevent-sdk/blob/main/proto/openevent.proto)
-- [Python SDK](https://github.com/openevent2026/openevent-sdk/blob/main/README_cn.md)
-- [Python SDK 使用指南](https://github.com/openevent2026/openevent-sdk/blob/main/docs/USAGE_cn.md)
-- [SDK API 契约](https://github.com/openevent2026/openevent-sdk/blob/main/docs/API_cn.md)
+- [SDK 仓库](https://github.com/openevent-official/openevent-sdk)
+- [协议定义](https://github.com/openevent-official/openevent-sdk/blob/main/proto/openevent.proto)
+- [Python SDK](https://github.com/openevent-official/openevent-sdk/blob/main/README_cn.md)
+- [Python SDK 使用指南](https://github.com/openevent-official/openevent-sdk/blob/main/docs/USAGE_cn.md)
+- [SDK API 契约](https://github.com/openevent-official/openevent-sdk/blob/main/docs/API_cn.md)
 
 文档面向 GitHub 原生 Markdown 渲染编写，不需要额外的文档构建步骤。
 
 ## GitHub 开源前检查
 
-- SDK 子模块已指向 `https://github.com/openevent2026/openevent-sdk.git`。
+- SDK 子模块已指向 `https://github.com/openevent-official/openevent-sdk.git`。
 - 确认 [LICENSE](LICENSE) 中的版权主体。
 - 仓库公开后，建议启用 GitHub private vulnerability reporting。
 
 ## 项目状态
 
 OpenEvent 仍处于早期阶段。公开 API 行为以
-[SDK API 契约](https://github.com/openevent2026/openevent-sdk/blob/main/docs/API_cn.md)
+[SDK API 契约](https://github.com/openevent-official/openevent-sdk/blob/main/docs/API_cn.md)
 为准；调用方应依赖文档化的 gRPC 契约，而不是服务端实现细节。

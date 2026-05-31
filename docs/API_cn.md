@@ -5,9 +5,9 @@
 OpenEvent 通过共享 protobuf 协议定义 gRPC 服务：
 
 - 协议定义：
-  [`openevent-sdk/proto/openevent.proto`](https://github.com/openevent2026/openevent-sdk/blob/main/proto/openevent.proto)
+  [`openevent-sdk/proto/openevent.proto`](https://github.com/openevent-official/openevent-sdk/blob/main/proto/openevent.proto)
 - API 行为和错误语义：
-  [`openevent-sdk/docs/API_cn.md`](https://github.com/openevent2026/openevent-sdk/blob/main/docs/API_cn.md)
+  [`openevent-sdk/docs/API_cn.md`](https://github.com/openevent-official/openevent-sdk/blob/main/docs/API_cn.md)
 
 API 契约包括：
 

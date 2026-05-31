@@ -154,18 +154,18 @@ placement, data directory permissions, and admin port security requirements.
 
 ## SDK
 
-See the [openevent-sdk](https://github.com/openevent2026/openevent-sdk)
+See the [openevent-sdk](https://github.com/openevent-official/openevent-sdk)
 repository for SDK build, installation, and test instructions.
 
 ## Documentation
 
 - [Configuration](docs/CONFIG.md)
 - [API](docs/API.md)
-- [SDK repository](https://github.com/openevent2026/openevent-sdk)
-- [Protocol definition](https://github.com/openevent2026/openevent-sdk/blob/main/proto/openevent.proto)
-- [Python SDK](https://github.com/openevent2026/openevent-sdk/blob/main/README.md)
-- [Python SDK usage](https://github.com/openevent2026/openevent-sdk/blob/main/docs/USAGE.md)
-- [SDK API contract](https://github.com/openevent2026/openevent-sdk/blob/main/docs/API.md)
+- [SDK repository](https://github.com/openevent-official/openevent-sdk)
+- [Protocol definition](https://github.com/openevent-official/openevent-sdk/blob/main/proto/openevent.proto)
+- [Python SDK](https://github.com/openevent-official/openevent-sdk/blob/main/README.md)
+- [Python SDK usage](https://github.com/openevent-official/openevent-sdk/blob/main/docs/USAGE.md)
+- [SDK API contract](https://github.com/openevent-official/openevent-sdk/blob/main/docs/API.md)
 
 The documentation is written for GitHub's native Markdown renderer. No
 documentation build step is required.
@@ -173,13 +173,13 @@ documentation build step is required.
 ## Open Source Publishing Notes
 
 - The SDK submodule points to
-  `https://github.com/openevent2026/openevent-sdk.git`.
+  `https://github.com/openevent-official/openevent-sdk.git`.
 - Confirm the copyright holder in [LICENSE](LICENSE).
 - Enable private vulnerability reporting in GitHub if the repository is public.
 
 ## Project Status
 
 OpenEvent is still in an early stage. Public API behavior is defined by the
-[SDK API contract](https://github.com/openevent2026/openevent-sdk/blob/main/docs/API.md);
+[SDK API contract](https://github.com/openevent-official/openevent-sdk/blob/main/docs/API.md);
 clients should rely on the documented gRPC contract, not server implementation
 details.

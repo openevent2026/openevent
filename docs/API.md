@@ -5,9 +5,9 @@
 OpenEvent exposes gRPC services through the shared protobuf schema:
 
 - Protocol definition:
-  [`openevent-sdk/proto/openevent.proto`](https://github.com/openevent2026/openevent-sdk/blob/main/proto/openevent.proto)
+  [`openevent-sdk/proto/openevent.proto`](https://github.com/openevent-official/openevent-sdk/blob/main/proto/openevent.proto)
 - API behavior and error semantics:
-  [`openevent-sdk/docs/API.md`](https://github.com/openevent2026/openevent-sdk/blob/main/docs/API.md)
+  [`openevent-sdk/docs/API.md`](https://github.com/openevent-official/openevent-sdk/blob/main/docs/API.md)
 
 The API contract covers:
 
