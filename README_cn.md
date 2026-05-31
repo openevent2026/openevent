@@ -153,6 +153,7 @@ SDK 的构建、安装和测试说明见
 
 ## 文档
 
+- [OpenEvent 博客](https://openevent-official.github.io/openevent-blog/)
 - [配置说明](docs/CONFIG_cn.md)
 - [API 说明](docs/API_cn.md)
 - [SDK 仓库](https://github.com/openevent-official/openevent-sdk)

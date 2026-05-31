@@ -159,6 +159,7 @@ repository for SDK build, installation, and test instructions.
 
 ## Documentation
 
+- [OpenEvent Blog](https://openevent-official.github.io/openevent-blog/en/)
 - [Configuration](docs/CONFIG.md)
 - [API](docs/API.md)
 - [SDK repository](https://github.com/openevent-official/openevent-sdk)
